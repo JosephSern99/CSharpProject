@@ -1,0 +1,44 @@
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csprojAssemblyReference.cache
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Login.resources
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Properties.Resources.resources
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.GenerateResource.cache
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe.config
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\MCM Management System.pdb
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\MySql.Data.dll
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\Renci.SshNet.dll
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\Google.Protobuf.xml
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\MySql.Data.xml
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\Renci.SshNet.xml
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CopyComplete
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM Management System.pdb
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Admin.resources
+D:\Visual Studio Projects\MCM Management System\MCM Management System\bin\Debug\WhatsAppApi.dll
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.mgnt.resources
+D:\Visual Studio Projects\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.StaffAccountManagement.resources
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe.config
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\MCM Management System.exe
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\MCM Management System.pdb
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\BouncyCastle.Crypto.dll
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\Google.Protobuf.dll
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\MySql.Data.dll
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\Renci.SshNet.dll
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\WhatsAppApi.dll
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\Google.Protobuf.xml
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\MySql.Data.xml
+D:\SDM project work\MCM Management System\MCM Management System\bin\Debug\Renci.SshNet.xml
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csprojAssemblyReference.cache
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Admin.resources
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.mgnt.resources
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Login.resources
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.Properties.Resources.resources
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM_Management_System.StaffAccountManagement.resources
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.GenerateResource.cache
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CoreCompileInputs.cache
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM Management System.csproj.CopyComplete
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM Management System.exe
+D:\SDM project work\MCM Management System\MCM Management System\obj\Debug\MCM Management System.pdb
