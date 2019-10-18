@@ -35,7 +35,9 @@ namespace MCM_Management_System
 
                 if (MyReader.Read())
                 {
-                    this.textBox3.Text = "Employee ID: " + (MyReader.GetInt32("Employee_ID").ToString()) + "\r\n" + "Employee Name: " + (MyReader.GetString("Name"));
+                    this.textBox3.Text = "Employee ID: " + (MyReader.GetInt32("Employee_ID").ToString()) + "\r\n" + "Employee Name: " + (MyReader.GetString("Name"))+
+                    "\r\n" + "Email: " + (MyReader.GetString("Email")) + "\r\n" + "Contact No: " + (MyReader.GetString("Contact Number")) 
+                        ;
 
                 }
                 else
