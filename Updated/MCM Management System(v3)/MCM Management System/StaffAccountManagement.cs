@@ -258,11 +258,6 @@ namespace MCM_Management_System
                 string newPassword = createPassword();
                 string password = MD5Hash(newPassword);
 
-
-
-
-
-
                 string Conn2 = "server=157.230.247.129;user id=operations; password=sdmconnect1; database=mypoolcm; persistsecurityinfo=True";
 
                 string Query = "INSERT INTO `staff` (Username, Name, Password, Email, Contact_Number, Department, Job_Position, Employment_Type, Employment_Start, Alt_Phone_Number, Birth_date, Marital_Status, Reference_Name, Reference_Address, Reference_Relationship, Reference_Phone_Number, Reference_Alt_Phone_Number, Salary_Type, Salary) VALUES ('" + username + "','" + this.textBox11.Text + "','" + password + "','" 
@@ -514,37 +509,34 @@ namespace MCM_Management_System
             String [] nameArray = new String[num];
             nameArray = explode(" ", username);
 
-            string un = "",un1  ="";
+            string un = "";
             string firstname = "";
             string middlename = "";
+            string lastname = "";
             string fnameSplit,mnameSplit;
-            
-           
-            firstname = nameArray[0];
-            middlename = nameArray[1];
 
-            fnameSplit = firstname.Substring(0, 1);
-            mnameSplit = middlename.Substring(0, 1);
+                firstname = nameArray[0];
+                middlename = nameArray[1];
+                lastname = nameArray[2];
 
-            un = fnameSplit;
-            un += mnameSplit;
-            for (int i=0;i<nameArray.Length;i++)
-            {
+                fnameSplit = firstname.Substring(0, 1);
+                mnameSplit = middlename.Substring(0, 1);
 
-                if (i < nameArray.Length)
-                {
-                    un1 = nameArray[i].Substring(0, nameArray.Length);
-
-                }
+                un = fnameSplit;
+                un += mnameSplit;
+                un += lastname;
                 
-            }
-            un += un1;
             return un;
         }
 
         private void TextBox11_Leave(object sender, EventArgs e)
         {
             username = getUsername(this.textBox11.Text);
+        }
+
+        private void Button9_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
