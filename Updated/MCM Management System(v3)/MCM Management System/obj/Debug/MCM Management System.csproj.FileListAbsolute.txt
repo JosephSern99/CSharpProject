@@ -93,3 +93,27 @@ C:\Users\Fabian Morais\Google Drive\Documents\mcmmgntsystem\Updated\MCM Manageme
 C:\Users\Fabian Morais\Google Drive\Documents\mcmmgntsystem\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM Management System.csproj.CopyComplete
 C:\Users\Fabian Morais\Google Drive\Documents\mcmmgntsystem\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM Management System.exe
 C:\Users\Fabian Morais\Google Drive\Documents\mcmmgntsystem\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM Management System.pdb
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\bin\Debug\MCM Management System.exe.config
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\bin\Debug\MCM Management System.exe
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\bin\Debug\MCM Management System.pdb
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\bin\Debug\BouncyCastle.Crypto.dll
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\bin\Debug\Google.Protobuf.dll
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\bin\Debug\Renci.SshNet.dll
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\bin\Debug\WhatsAppApi.dll
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\bin\Debug\Google.Protobuf.xml
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\bin\Debug\MySql.Data.xml
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\bin\Debug\Renci.SshNet.xml
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM Management System.csprojAssemblyReference.cache
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM_Management_System.Admin.resources
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM_Management_System.ClientAcctMgnt.resources
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM_Management_System.Dashboard.resources
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM_Management_System.JobForum.resources
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM_Management_System.mgnt.resources
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM_Management_System.Login.resources
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM_Management_System.Properties.Resources.resources
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM_Management_System.StaffAccountManagement.resources
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM Management System.csproj.GenerateResource.cache
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM Management System.csproj.CoreCompileInputs.cache
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM Management System.csproj.CopyComplete
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM Management System.exe
+D:\SDM project work 1\Updated\MCM Management System(v3)\MCM Management System\obj\Debug\MCM Management System.pdb
